@@ -1,7 +1,7 @@
 # 📌 Fibonacci Sequence in Swift
 
 ## 🚀 Description
-This Swift program calculates the nth number in the Fibonacci sequence using a recursive approach. The Fibonacci sequence starts with 0 and 1, and each subsequent number is the sum of the previous two numbers.
+This Swift program calculates the nth number in the Fibonacci sequence using a recursive approach. The Fibonacci sequence starts with `0` and `1`, and each subsequent number is the sum of the previous two numbers.
 
 ---
 
