@@ -38,3 +38,12 @@ func isPrime(_ num: Int) -> Bool {
    - It then checks for any **divisors** from `2` up to `num - 1`. If it finds a **divisor**, it immediately returns `false`.
 
    - If no **divisors** are found, the function returns `true`, indicating the number is `prime`.
+ 
+## ✅ **`Main` Function (Testing the Implementation)**
+- **Calls `isPrime` with the number `17`.**
+
+- **Prints the result.**
+
+```swift
+print(isPrime(17)) // Output: true
+```
