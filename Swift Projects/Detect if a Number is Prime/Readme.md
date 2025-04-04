@@ -47,3 +47,7 @@ func isPrime(_ num: Int) -> Bool {
 ```swift
 print(isPrime(17)) // Output: true
 ```
+## 🎯 Example Output
+```
+true
+```
