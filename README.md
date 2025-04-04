@@ -9,7 +9,7 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 | #  | Project Name               | Description |
 |----|----------------------------|-------------|
 |‎  ‎ 1️⃣ |[Check If a Number is Prime](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Check%20If%20a%20Number%20is%20Prime)|Checks if a number is prime by verifying it has no divisors other than 1 and itself|
-|‎  ‎ 2️⃣ |[Check if a Number is Even or Odd]()| Determines if a number is prime |
+|‎  ‎ 2️⃣ |[Check if a Number is Even or Odd](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Check%20if%20a%20Number%20is%20Even%20or%20Odd)| The program checks if the input number (`num`) is even by using the modulus operator|
 |‎‎‎  ‎ 3️⃣ |[]()| |
 |‎  ‎ 4️⃣ |[]()| |
 |‎  ‎ 5️⃣ |[]()| |
