@@ -9,14 +9,16 @@ This Swift program checks whether a given integer is a prime number. A prime num
 
 ### **Concept**
 1. The function checks if the number (`num`) is less than 2. If it is, it returns `false` because numbers less than 2 are not prime.
+   
 2. Then, the function iterates through the numbers from 2 to `num - 1`. If any of these numbers divide `num` evenly (i.e., the remainder is 0), then `num` is not a prime, and the function returns `false`.
+   
 3. If no divisors are found, the function returns `true`, indicating that the number is prime.
 
 ---
 
 ## 📂 Code Breakdown
 
-### ✅ **isPrime Function**
+### ✅ **`isPrime` Function**
 - **Input:** An integer (`num`).
 - **Output:** A boolean value indicating whether the number is prime.
 
@@ -29,3 +31,10 @@ func isPrime(_ num: Int) -> Bool {
     return true
 }
 ```
+- **Explanation:**
+
+   - The function starts by checking if `num` is less than `2`, which is not a **prime number**.
+
+   - It then checks for any **divisors** from `2` up to `num - 1`. If it finds a **divisor**, it immediately returns `false`.
+
+   - If no **divisors** are found, the function returns `true`, indicating the number is `prime`.
