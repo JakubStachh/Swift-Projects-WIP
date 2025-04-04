@@ -1,11 +1,6 @@
-# C - Simple Projects 🚀  
+# Swift - Simple Projects 🚀  
 
 A collection of 'beginner-friendly' **C programming projects** covering **algorithms, problem-solving, and small applications**. Each project is self-contained and organized into folders for easy access.  
-
-📌 **Perfect for:**  
-✔️ Beginners learning C  
-✔️ Interview preparation  
-✔️ Small coding exercises  
 
 ---
 
@@ -29,4 +24,29 @@ A collection of 'beginner-friendly' **C programming projects** covering **algori
 ```sh
 https://github.com/JakubStachh/C-Simple-Projects
 cd C-Simple-Projects
+```
+# 📦 La Installation
+
+### 𓀃 The Actual Installation🤌🤌
+
+#### You can use [Programiz Complier](https://www.programiz.com/golang/online-compiler/) or similar online compliers to run the code
+
+#### But if you're using e.g. Windows Powershell you should:
+
+- Make sure you have GO installed. You can install it using [GO](https://go.dev/doc/install):
+
+  ```sh
+  go version
+  ```
+  
+- [Download](https://github.com/JakubStachh/GO-Projects/archive/refs/heads/main.zip) the code
+- Unpack the zip file
+- Find the `GO-Projects-main\GO Projects\`
+- Open the folder of the program You want to try out `GO-Projects-main\GO Projects\Anagram Check`
+- and then run:
+  
+  ```sh
+  go run AnagramCheck.go
+  ```
+#### Should work in `Visual Studio Code` if yours *had been already set up for Golang*
 
