@@ -16,7 +16,7 @@ This Swift program demonstrates how to check if a number is prime. A prime numbe
 
 ## 📂 Code Breakdown
 
-### ✅ **isPrime Function**
+### ✅ **`isPrime` Function**
 - **Input:** A number (`num`).
 - **Output:** A boolean value indicating whether the number is prime.
 
@@ -28,3 +28,12 @@ func isPrime(_ num: Int) -> Bool {
     }
     return true
 }
+```
+### ✅ **`Main` Function (Testing the Implementation)**
+- **Calls `isPrime` with the number `13`.**
+
+- **Prints the result.**
+
+```swift
+print(isPrime(13)) // Output: true
+```
