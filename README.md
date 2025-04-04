@@ -1,6 +1,6 @@
 # 📌 Swift - Simple Projects 🚀  
 
-A collection of 'beginner-friendly' **C programming projects** covering **algorithms, problem-solving, and small applications**. Each project is self-contained and organized into folders for easy access.  
+A collection of 'beginner-friendly' **Swift programming projects** covering **algorithms, problem-solving, and small applications**. Each 'project' is self-contained and organized into folders for easy access.  
 
 ---
 
@@ -42,4 +42,25 @@ A collection of 'beginner-friendly' **C programming projects** covering **algori
   go run AnagramCheck.go
   ```
 #### Should work in `Visual Studio Code` if yours *had been already set up for Golang*
+
+---
+
+# THANK YOU!
+```sh
+1. And Voilà! You've done it! You've actually checked my code! 
+2. Thank You. All I'm hoping for is... that I hadn't make any mistakes.
+3. Well... maybe... rather: that they're not THAT serious.....
+4. If there are any: I'm sorry, and I will update it when the right time comes.... 
+5. But for now... let's enjoy this peacful while with - beloved by many - EL SNOOPY!!!
+
+
+ㅤ／￣￣ヽ＿
+　/^ヽ ・   　●
+ ｜# ｜　＿＿ノ
+　`―-)=(   ／￣ ∨ ￣ ＼
+　　／ㅤ)=C|          /)
+　c(　 ﾉ     ＼    ／
+　  _｣ LL_     ＼／
+　(＿＿)_)
+```
 
