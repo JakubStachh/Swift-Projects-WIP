@@ -8,7 +8,7 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 
 | #  | Project Name               | Description |
 |----|----------------------------|-------------|
-| 1️⃣ | [**Anagram Checker**](https://github.com/JakubStachh/Kotlin-Projects/tree/main/Kotlin%20Programs/Reverse%20a%20String)        | Checks if two words are anagrams |
+| 1️⃣ | [**Check If a Number is Prime**](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Check%20If%20a%20Number%20is%20Prime)        | Checks if two words are anagrams |
 | 2️⃣ | **Prime Number Checker**   | Determines if a number is prime |
 | 3️⃣ | **Fibonacci Generator**    | Generates Fibonacci series up to `n` |
 | 4️⃣ | **Palindrome Checker**     | Verifies if a string is a palindrome |
@@ -28,7 +28,7 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 
 - Make sure you have GO installed. You can install it using [GO](https://go.dev/doc/install):
 
-  ```sh
+  ```
   go version
   ```
   
