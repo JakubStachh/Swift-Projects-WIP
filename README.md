@@ -16,6 +16,7 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 | 6️⃣ || Converts Celsius to Fahrenheit and vice versa |
 | 7️⃣ ||
 | 8️⃣ ||
+|---||
 | 9️⃣ ||
 | 1️⃣0️⃣ ||
 | 1️⃣1️⃣ ||
