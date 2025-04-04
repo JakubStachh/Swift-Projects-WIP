@@ -12,9 +12,9 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 |‎  ‎ 2️⃣ |[Check if a Number is Even or Odd](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Check%20if%20a%20Number%20is%20Even%20or%20Odd)|The program checks if the input number (`num`) is even by using the modulus operator|
 |‎‎‎  ‎ 3️⃣ |[Check if a String is a Palindrome](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Check%20if%20a%20String%20is%20a%20Palindrome)|This Swift program checks whether a given string is a palindrome|
 |‎  ‎ 4️⃣ |[Detect if a Number is Prime](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Detect%20if%20a%20Number%20is%20Prime)|A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself|
-|‎  ‎ 5️⃣ |[]()| |
-|‎  ‎ 6️⃣ |[]()| |
-|‎  ‎ 7️⃣ |[]()|
+|‎  ‎ 5️⃣ |[Fibonacci Series](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Fibonacci%20Series)|The Fibonacci sequence starts with `0` and `1`, and each subsequent number is the sum of the previous two numbers|
+|‎  ‎ 6️⃣ |[Find GCD](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Find%20GCD)|This Swift program calculates the **Greatest Common Divisor (GCD)** of two integers using **Euclid's algorithm**|
+|‎  ‎ 7️⃣ |[Find the Factorial of a Number](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Find%20the%20Factorial%20of%20a%20Number)|This Swift program calculates the **factorial** of a given number `n` recursively|
 |‎  ‎ 8️⃣ |[]()|
 |‎  ‎ 9️⃣ |[]()|
 | 1️⃣0️⃣ |[]()|
