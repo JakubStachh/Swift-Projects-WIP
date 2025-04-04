@@ -46,7 +46,7 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 ---
 
 # THANK YOU!
-```c++
+```
 1. And Voilà! You've done it! You've actually checked my code! 
 2. Thank You. All I'm hoping for is... that I hadn't make any mistakes.
 3. Well... maybe... rather: that they're not THAT serious.....
