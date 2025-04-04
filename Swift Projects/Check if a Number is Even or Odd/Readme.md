@@ -16,7 +16,7 @@ This Swift program demonstrates how to check if a number is even. An even number
 
 ## 📂 Code Breakdown
 
-### ✅ **isEven Function**
+### ✅ **`isEven` Function**
 - **Input:** A number (`num`).
 - **Output:** A boolean value indicating whether the number is even.
 
