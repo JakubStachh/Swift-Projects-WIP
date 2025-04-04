@@ -9,7 +9,9 @@ This Swift program demonstrates how to check if a number is prime. A prime numbe
 
 ### **Concept**
 1. The program checks if the input number (`num`) is less than 2. If it is, it immediately returns `false` because numbers less than 2 are not prime.
+   
 2. It then checks for divisibility by any number from 2 up to `num - 1`. If any number divides `num` evenly, it returns `false` because the number is not prime.
+   
 3. If no divisors are found, it returns `true` because the number is prime.
 
 ---
