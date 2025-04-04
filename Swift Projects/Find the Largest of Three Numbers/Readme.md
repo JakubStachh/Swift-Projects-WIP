@@ -17,7 +17,7 @@ For the input values `10`, `25`, and `15`, the program will determine that `25` 
 
 ## 📂 Code Breakdown
 
-### ✅ **largestOfThree Function**
+### ✅ **`largestOfThree` Function**
 - **Input:** Three integers: `a`, `b`, and `c`.
 - **Output:** The largest integer among the three.
 
@@ -25,22 +25,22 @@ For the input values `10`, `25`, and `15`, the program will determine that `25` 
 func largestOfThree(_ a: Int, _ b: Int, _ c: Int) -> Int {
     return max(a, max(b, c))
 }
-Explanation:
+```
+- **Explanation:**
 
-The function uses the max function to compare a, b, and c.
+   - The function uses the `max` function to compare `a`, `b`, and `c`.
 
-It first compares b and c, and then compares the result with a to find the largest number.
+   - It first compares `b` and `c`, and then compares the result with `a` to find the largest number.
 
-✅ Main Function (Testing the Implementation)
-Calls largestOfThree with the integers 10, 25, and 15.
+## ✅ **`Main` Function (Testing the Implementation)**
+- **Calls `largestOfThree` with the integers `10`, `25`, and `15`.**
 
-Prints the result.
+- **Prints the result.**
 
-swift
-Kopiuj
-Edytuj
+```swift
 print(largestOfThree(10, 25, 15)) // Output: 25
-🎯 Example Output
-Kopiuj
-Edytuj
+```
+## 🎯 Example Output
+```
 25
+```
