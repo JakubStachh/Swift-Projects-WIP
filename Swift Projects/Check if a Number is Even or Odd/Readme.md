@@ -25,3 +25,11 @@ func isEven(_ num: Int) -> Bool {
     return num % 2 == 0
 }
 ```
+## ✅ **`Main` Function (Testing the Implementation)**
+- **Calls `isEven` with the number `8`.**
+
+- **Prints the result.**
+
+```swift
+print(isEven(8)) // Output: true
+```
