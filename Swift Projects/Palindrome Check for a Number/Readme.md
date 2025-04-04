@@ -14,7 +14,7 @@ This Swift program checks whether a given integer is a palindrome. A **palindrom
 
 ## 📂 Code Breakdown
 
-### ✅ **Palindrome Logic**
+### ✅ **`Palindrome` Logic**
 
 We use the `String` initializer to convert the number to a string and the `reversed()` method to reverse the string. If the original string and the reversed string are equal, the function returns `true`, otherwise `false`.
 
@@ -23,15 +23,14 @@ func isPalindrome(_ num: Int) -> Bool {
     let strNum = String(num)
     return strNum == String(strNum.reversed())
 }
-✅ Main Function (Testing the Implementation)
-The main function tests the isPalindrome function with the number 121:
+```
+## ✅ **`Main` Function (Testing the Implementation)**
+- **The `main` function tests the `isPalindrome` function with the number `121`:**
 
-swift
-Kopiuj
-Edytuj
+```swift
 print(isPalindrome(121))  // Output: true
-🎯 Example Output
-arduino
-Kopiuj
-Edytuj
+```
+## 🎯 Example Output
+```
 true
+```
