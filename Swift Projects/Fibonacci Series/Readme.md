@@ -28,3 +28,10 @@ The function `fibonacci` calculates the nth Fibonacci number by recursively call
 func fibonacci(_ n: Int) -> Int {
     return n <= 1 ? n : fibonacci(n - 1) + fibonacci(n - 2)
 }
+```
+
+- **Explanation:**
+
+     - If `n` is `0` or `1`, the function directly returns `n` because `F(0) = 0` and `F(1) = 1`.
+
+     - For any other value of `n`, the function calls itself recursively to calculate the previous two Fibonacci numbers and returns their sum.
