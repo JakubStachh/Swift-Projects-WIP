@@ -9,9 +9,9 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 | #  | Project Name               | Description |
 |----|----------------------------|-------------|
 |‎  ‎ 1️⃣ |[Check If a Number is Prime](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Check%20If%20a%20Number%20is%20Prime)|Checks if a number is prime by verifying it has no divisors other than 1 and itself|
-|‎  ‎ 2️⃣ |[Check if a Number is Even or Odd](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Check%20if%20a%20Number%20is%20Even%20or%20Odd)| The program checks if the input number (`num`) is even by using the modulus operator|
-|‎‎‎  ‎ 3️⃣ |[]()| |
-|‎  ‎ 4️⃣ |[]()| |
+|‎  ‎ 2️⃣ |[Check if a Number is Even or Odd](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Check%20if%20a%20Number%20is%20Even%20or%20Odd)|The program checks if the input number (`num`) is even by using the modulus operator|
+|‎‎‎  ‎ 3️⃣ |[Check if a String is a Palindrome](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Check%20if%20a%20String%20is%20a%20Palindrome)|This Swift program checks whether a given string is a palindrome|
+|‎  ‎ 4️⃣ |[Detect if a Number is Prime](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Detect%20if%20a%20Number%20is%20Prime)|A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself|
 |‎  ‎ 5️⃣ |[]()| |
 |‎  ‎ 6️⃣ |[]()| |
 |‎  ‎ 7️⃣ |[]()|
