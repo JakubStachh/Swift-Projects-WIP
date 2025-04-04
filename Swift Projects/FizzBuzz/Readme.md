@@ -15,7 +15,7 @@ This Swift program implements the **FizzBuzz** problem, a common coding challeng
 
 ## 📂 Code Breakdown
 
-### ✅ **FizzBuzz Logic**
+### ✅ **`FizzBuzz` Logic**
 
 The program uses a simple `for` loop that runs through the numbers 1 to 20. Inside the loop, we check the divisibility of each number:
 
@@ -36,9 +36,10 @@ for i in 1...20 {
         print(i)
     }
 }
-🎯 Example Output
-Kopiuj
-Edytuj
+```
+
+### 🎯 Example Output
+```
 1
 2
 Fizz
@@ -59,3 +60,4 @@ FizzBuzz
 Fizz
 19
 Buzz
+```
