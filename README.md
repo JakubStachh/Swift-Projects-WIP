@@ -15,6 +15,21 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 | 5️⃣ || A simple CLI Tic-Tac-Toe game |
 | 6️⃣ || Converts Celsius to Fahrenheit and vice versa |
 |||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+
 
 ---
 
