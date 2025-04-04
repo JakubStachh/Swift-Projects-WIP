@@ -16,7 +16,7 @@ Euclid's algorithm for finding the GCD of two numbers is based on the principle 
 
 ## 📂 Code Breakdown
 
-### ✅ **gcd Function**
+### ✅ **`gcd` Function**
 - **Input:** Two integers, `a` and `b`.
 - **Output:** The greatest common divisor (GCD) of the two numbers.
 
