@@ -48,12 +48,13 @@ func fetchExchangeRate(from base: String, to target: String, amount: Double) {
         }
     }
 }
-URL Construction: The urlString is dynamically created to request data for the base currency.
-
-Running curl: We use Process to run curl and retrieve the data.
-
-JSON Parsing: After receiving the data, we parse it to find the target currency exchange rate and then perform the conversion.
 ```
+- **URL Construction**: The `urlString` is dynamically created to request data for the base currency.
+
+- **Running `curl`**: We use Process to run `curl` and retrieve the data.
+
+- **`JSON` Parsing**: After receiving the data, we parse it to find the target currency exchange rate and then perform the conversion.
+
 ## ✅ **`Main` Function**
 The `fetchExchangeRate` function is called with a base currency, target currency, and an amount to convert.
 
