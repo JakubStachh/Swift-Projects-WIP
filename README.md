@@ -17,8 +17,8 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 | .7️ ||
 | .8️ ||
 | .9️ ||
-| .1️0️ ||
-| .1️1️ ||
+| 1️0️ ||
+| 1️1️ ||
 | 1️2️ ||
 | 1️3️ ||
 | 1️4️ ||
