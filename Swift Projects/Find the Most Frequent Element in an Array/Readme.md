@@ -18,7 +18,7 @@ For the input array `[1, 2, 2, 3, 3, 3, 4]`, the program will determine that the
 
 ## 📂 Code Breakdown
 
-### ✅ **mostFrequent Function**
+### ✅ **`mostFrequent` Function**
 - **Input:** An array of integers `arr`.
 - **Output:** The most frequent element in the array (or `nil` if no element exists).
 
@@ -27,26 +27,26 @@ func mostFrequent(_ arr: [Int]) -> Int? {
     let counts = arr.reduce(into: [:]) { $0[$1, default: 0] += 1 }
     return counts.max(by: { $0.value < $1.value })?.key
 }
-Explanation:
+```
+- **Explanation:**
 
-reduce(into:): Creates a dictionary of element frequencies.
+    - `reduce(into:)`: Creates a dictionary of element frequencies.
 
-max(by:): Finds the dictionary entry with the highest frequency.
+    - `max(by:)`: Finds the dictionary entry with the highest frequency.
 
-✅ Main Function (Testing the Implementation)
-Calls mostFrequent with the array [1, 2, 2, 3, 3, 3, 4].
+## ✅ **`Main` Function (Testing the Implementation)**
+- **Calls `mostFrequent` with the `array [1, 2, 2, 3, 3, 3, 4]`.**
 
-Prints the result using safe unwrapping with if let.
+- **Prints the result using `safe unwrapping` with if let.**
 
-swift
-Kopiuj
-Edytuj
+```swift
 if let result = mostFrequent([1, 2, 2, 3, 3, 3, 4]) {
     print(result)  // Output: 3
 } else {
     print("No frequent element found")
 }
-🎯 Example Output
-Kopiuj
-Edytuj
+```
+## 🎯 Example Output
+```
 3
+```
