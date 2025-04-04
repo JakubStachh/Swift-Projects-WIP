@@ -8,7 +8,7 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 
 | #  | Project Name               | Description |
 |----|----------------------------|-------------|
-|   2️⃣ |[Check If a Number is Prime](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Check%20If%20a%20Number%20is%20Prime)|Checks if a number is prime by verifying it has no divisors other than 1 and itself|
+|‎  ‎ 8️⃣ |[Check If a Number is Prime](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Check%20If%20a%20Number%20is%20Prime)|Checks if a number is prime by verifying it has no divisors other than 1 and itself|
 |‎   2️⃣ || Determines if a number is prime |
 |‎‎‎ ‎ ‎ ‎3️⃣ || Generates Fibonacci series up to `n` |
 |‎  ‎ 4️⃣ || Verifies if a string is a palindrome |
