@@ -26,11 +26,11 @@ func isPalindrome(_ str: String) -> Bool {
 }
 ```
 
-## **Explanation:**
+- **Explanation:**
 
-- `str.reversed()` returns a reversed sequence of characters from the input string.
+   - `str.reversed()` returns a reversed sequence of characters from the input string.
 
-- `String()` converts the reversed sequence back into a string to compare with the original.
+   - `String()` converts the reversed sequence back into a string to compare with the original.
 
 ## ✅ **`Main` Function (Testing the Implementation)**
 - **Calls `isPalindrome` with the string `"madam"`.**
