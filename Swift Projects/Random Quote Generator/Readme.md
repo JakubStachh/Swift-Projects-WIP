@@ -15,7 +15,7 @@ This Swift program randomly selects a quote from an array of predefined quotes a
 
 ## 📂 Code Breakdown
 
-### ✅ **Quote Array**
+### ✅ **`Quote Array`**
 
 The `quotes` array contains a few inspirational quotes:
 
@@ -25,12 +25,12 @@ let quotes = [
     "Do what you can, with what you have, where you are.",
     "Success is not final, failure is not fatal: it is the courage to continue that counts."
 ]
-✅ Quote Selection and Display
-We initially display a message saying "Tap for a quote", and then simulate the selection of a random quote using randomElement().
+```
 
-swift
-Kopiuj
-Edytuj
+## ✅ **`Quote` Selection and Display**
+We initially display a message saying "`Tap for a quote`", and then simulate the selection of a random quote using `randomElement()`.
+
+```swift
 var currentQuote = "Tap for a quote"
 print(currentQuote)
 
@@ -40,9 +40,9 @@ currentQuote = randomQuote
 
 // Print the new quote
 print(currentQuote)
-🎯 Example Output
-kotlin
-Kopiuj
-Edytuj
+```
+## 🎯 Example Output
+```kotlin
 Tap for a quote
 Success is not final, failure is not fatal: it is the courage to continue that counts.
+```
