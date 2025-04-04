@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator in Swift
+# 📌 Simple Calculator in Swift
 
 ## 🚀 Description
 This Swift function acts as a simple calculator that can perform basic arithmetic operations: addition, subtraction, multiplication, and division. It takes two numbers and an operator as input and returns the result accordingly.
