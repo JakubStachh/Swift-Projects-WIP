@@ -15,7 +15,7 @@ This Swift program fetches the exchange rate from an external API and converts a
 
 ## 📂 Code Breakdown
 
-### ✅ **fetchExchangeRate Function**
+### ✅ **`fetchExchangeRate` Function**
 
 This function takes three parameters: `base`, `target`, and `amount`. It fetches the exchange rate from the external API and performs the conversion.
 
@@ -53,16 +53,14 @@ URL Construction: The urlString is dynamically created to request data for the b
 Running curl: We use Process to run curl and retrieve the data.
 
 JSON Parsing: After receiving the data, we parse it to find the target currency exchange rate and then perform the conversion.
+```
+## ✅ **`Main` Function**
+The `fetchExchangeRate` function is called with a base currency, target currency, and an amount to convert.
 
-✅ Main Function
-The fetchExchangeRate function is called with a base currency, target currency, and an amount to convert.
-
-swift
-Kopiuj
-Edytuj
+```swift
 fetchExchangeRate(from: "USD", to: "INR", amount: 100)
-🎯 Example Output
-yaml
-Kopiuj
-Edytuj
+```
+## 🎯 Example Output
+```
 100 USD = 7400.0 INR
+```
