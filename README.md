@@ -15,20 +15,20 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 |‎  ‎ 5️⃣ |[Fibonacci Series](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Fibonacci%20Series)|The Fibonacci sequence starts with `0` and `1`, and each subsequent number is the sum of the previous two numbers|
 |‎  ‎ 6️⃣ |[Find GCD](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Find%20GCD)|This Swift program calculates the **Greatest Common Divisor (GCD)** of two integers using **Euclid's algorithm**|
 |‎  ‎ 7️⃣ |[Find the Factorial of a Number](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Find%20the%20Factorial%20of%20a%20Number)|This Swift program calculates the **factorial** of a given number `n` recursively|
-|‎  ‎ 8️⃣ |[]()|
-|‎  ‎ 9️⃣ |[]()|
-| 1️⃣0️⃣ |[]()|
-| 1️⃣1️⃣ |[]()|
-| 1️⃣2️⃣ |[]()|
-| 1️⃣3️⃣ |[]()|
-| 1️⃣4️⃣ |[]()|
-| 1️⃣5️⃣ |[]()|
-| 1️⃣6️⃣ |[]()|
-| 1️⃣7️⃣ |[]()|
-| 1️⃣8️⃣ |[]()|
-| 1️⃣9️⃣ |[]()|
-| 2️⃣0️⃣ |[]()|
-| 2️⃣1️⃣ |[]()|
+|‎  ‎ 8️⃣ |[Find the Largest of Three Numbers](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Find%20the%20Largest%20of%20Three%20Numbers)|The program uses the `max` function to compare the values and find the largest|
+|‎  ‎ 9️⃣ |[Find the Most Frequent Element in an Array](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Find%20the%20Most%20Frequent%20Element%20in%20an%20Array)|The program uses the `reduce(into:)` method to count the occurrences of each element and then identifies the element with the highest frequency|
+| 1️⃣0️⃣ |[]()||
+| 1️⃣1️⃣ |[]()||
+| 1️⃣2️⃣ |[]()||
+| 1️⃣3️⃣ |[]()||
+| 1️⃣4️⃣ |[]()||
+| 1️⃣5️⃣ |[]()||
+| 1️⃣6️⃣ |[]()||
+| 1️⃣7️⃣ |[]()||
+| 1️⃣8️⃣ |[]()||
+| 1️⃣9️⃣ |[]()||
+| 2️⃣0️⃣ |[]()||
+| 2️⃣1️⃣ |[]()||
 
 
 ---
