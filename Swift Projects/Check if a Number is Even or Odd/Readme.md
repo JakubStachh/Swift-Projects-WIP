@@ -33,3 +33,8 @@ func isEven(_ num: Int) -> Bool {
 ```swift
 print(isEven(8)) // Output: true
 ```
+## 🎯 Example Output
+
+```
+true
+```
