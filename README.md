@@ -47,7 +47,7 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
   swift --version
   ```
   
-- [Download](https://github.com/JakubStachh/GO-Projects/archive/refs/heads/main.zip) the code
+- [Download](https://github.com/JakubStachh/Swift-Projects/archive/refs/heads/main.zip) the code
 - Unpack the zip file
 - Find the `GO-Projects-main\GO Projects\`
 - Open the folder of the program You want to try out `GO-Projects-main\GO Projects\Anagram Check`
