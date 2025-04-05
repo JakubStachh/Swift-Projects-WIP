@@ -49,12 +49,16 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
   
 - [Download](https://github.com/JakubStachh/Swift-Projects/archive/refs/heads/main.zip) the code
 - Unpack the zip file
-- Find the `GO-Projects-main\GO Projects\`
-- Open the folder of the program You want to try out `GO-Projects-main\GO Projects\Anagram Check`
+- Find the `Swift-Projects-main\Swift Projects`
+- Open the folder of the program You want to try out `Swift-Projects-main\Swift Projects\Check if a Number is Even or Odd`
 - and then run:
   
-  ```sh
-  go run AnagramCheck.go
+  ```
+  swiftc CheckifaNumberisEvenorOdd.swift -o CheckifEvenOrOdd.exe
+  ```
+- and then:
+  ```
+  ./CheckifEvenOrOdd.exe
   ```
 #### Should work in `Visual Studio Code` if yours *had been already set up for Golang*
 
