@@ -1,4 +1,4 @@
-# 🚀  Swift - Simple Projects 
+# 🐕  Swift - Simple Projects 
 
 A collection of 'beginner-friendly' **Swift programming projects** covering **algorithms, problem-solving, and small applications**. Each 'project' is self-contained and organized into folders for easy access.  
 
