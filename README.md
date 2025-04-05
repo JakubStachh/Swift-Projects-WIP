@@ -41,10 +41,10 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 
 #### But if you're using e.g. Windows Powershell you should:
 
-- Make sure you have GO installed. You can install it using [GO](https://go.dev/doc/install):
+- Make sure you have Swift installed. You can install it using [Swift](https://www.swift.org/install/):
 
   ```
-  go version
+  swift --version
   ```
   
 - [Download](https://github.com/JakubStachh/GO-Projects/archive/refs/heads/main.zip) the code
