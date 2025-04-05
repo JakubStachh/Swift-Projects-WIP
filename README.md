@@ -60,7 +60,7 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
   ```
   ./CheckifEvenOrOdd.exe
   ```
-#### Should work in `Visual Studio Code` if yours *had been already set up for Golang*
+#### Should work in `Visual Studio Code` if yours had already been set up 
 
 ---
 
