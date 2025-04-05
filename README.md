@@ -17,18 +17,20 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 |‎  ‎ 7️⃣ |[Find the Factorial of a Number](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Find%20the%20Factorial%20of%20a%20Number)|This Swift program calculates the **factorial** of a given number `n` recursively|
 |‎  ‎ 8️⃣ |[Find the Largest of Three Numbers](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Find%20the%20Largest%20of%20Three%20Numbers)|The program uses the `max` function to compare the values and find the largest|
 |‎  ‎ 9️⃣ |[Find the Most Frequent Element in an Array](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Find%20the%20Most%20Frequent%20Element%20in%20an%20Array)|The program uses the `reduce(into:)` method to count the occurrences of each element and then identifies the element with the highest frequency|
-| 1️⃣0️⃣ |[]()||
-| 1️⃣1️⃣ |[]()||
-| 1️⃣2️⃣ |[]()||
-| 1️⃣3️⃣ |[]()||
-| 1️⃣4️⃣ |[]()||
-| 1️⃣5️⃣ |[]()||
-| 1️⃣6️⃣ |[]()||
-| 1️⃣7️⃣ |[]()||
-| 1️⃣8️⃣ |[]()||
-| 1️⃣9️⃣ |[]()||
-| 2️⃣0️⃣ |[]()||
-| 2️⃣1️⃣ |[]()||
+| 1️⃣0️⃣ |[Find the Second Largest Element in an Array](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Find%20the%20Second%20Largest%20Element%20in%20an%20Array)|The program first removes any duplicate elements by converting the array to a `Set`, then sorts the array and retrieves the second largest element|
+| 1️⃣1️⃣ |[FizzBuzz](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/FizzBuzz)|This Swift program implements the **FizzBuzz** problem, a common coding challenge|
+| 1️⃣2️⃣ |[Palindrome Check for a Number](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Palindrome%20Check%20for%20a%20Number)|This Swift program checks whether a given integer is a palindrome|
+| 1️⃣3️⃣ |[Random Quote Generator](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Random%20Quote%20Generator)|This Swift program randomly selects a quote from an array of predefined quotes and displays it|
+| 1️⃣4️⃣ |[Real-Time Currency Converter](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Real-Time%20Currency%20Converter)|The program uses `curl` to interact with an exchange rate API and returns the converted amount|
+| 1️⃣5️⃣ |[Remove Duplicates from an Array](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Remove%20Duplicates%20from%20an%20Array)|This Swift program demonstrates how to remove duplicate elements from an array of integers|
+| 1️⃣6️⃣ |[Reverse a String](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Reverse%20a%20String)|This Swift function demonstrates how to reverse a given string using built-in functionality|
+| 1️⃣7️⃣ |[Reverse an Array](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Reverse%20an%20Array)|Function demonstrates how to reverse the order of elements in an array using the built-in `reversed()` method. It takes an array of integers as input and returns a new array with elements in reverse order|
+| 1️⃣8️⃣ |[Simple Calculator App](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Simple%20Calculator%20App)|It takes two numbers and an operator as input and returns the result accordingly|
+| 1️⃣9️⃣ |[Sorting an Array](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Sorting%20an%20Array)|It repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order|
+| 2️⃣0️⃣ |[Swap Two Numbers Without a Temp Variable](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Swap%20Two%20Numbers%20Without%20a%20Temp%20Variable)|This Swift snippet demonstrates a clean and elegant way to swap the values of two variables using tuple destructuring|
+| 2️⃣1️⃣ |[Weather App using OpenWeather API](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Weather%20App%20using%20OpenWeather%20API)|It extracts the temperature and prints it to the console.
+
+|
 
 
 ---
