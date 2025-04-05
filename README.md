@@ -28,9 +28,7 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 | 1️⃣8️⃣ |[Simple Calculator App](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Simple%20Calculator%20App)|It takes two numbers and an operator as input and returns the result accordingly|
 | 1️⃣9️⃣ |[Sorting an Array](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Sorting%20an%20Array)|It repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order|
 | 2️⃣0️⃣ |[Swap Two Numbers Without a Temp Variable](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Swap%20Two%20Numbers%20Without%20a%20Temp%20Variable)|This Swift snippet demonstrates a clean and elegant way to swap the values of two variables using tuple destructuring|
-| 2️⃣1️⃣ |[Weather App using OpenWeather API](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Weather%20App%20using%20OpenWeather%20API)|It extracts the temperature and prints it to the console.
-
-|
+| 2️⃣1️⃣ |[Weather App using OpenWeather API](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Weather%20App%20using%20OpenWeather%20API)|It extracts the temperature and prints it to the console|
 
 
 ---
