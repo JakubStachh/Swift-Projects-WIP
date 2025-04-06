@@ -72,14 +72,12 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 4. If there are any: I'm sorry, and I will update it when the right time comes.... 
 5. But for now... let's enjoy this peacful while with - beloved by many - EL SNOOPY!!!
 
-
-ㅤ／￣￣ヽ＿
-　/^ヽ ・   　●
- ｜# ｜　＿＿ノ
+ ／￣￣ヽ＿
+/^ヽ ・   　●
+｜# ｜　＿＿ノ
 　`―-)=(   ／￣ ∨ ￣ ＼
 　　／ㅤ)=C|          /)
 　c(　 ﾉ     ＼    ／
 　  _｣ LL_     ＼／
 　(＿＿)_)
 ```
-
